@@ -1,7 +1,7 @@
-var ctitle = "jurassic park";
-var cyear = "1993";
-var cdirector = "steven spielberg";
-var cgenre = ["action", "adventure","science fiction"];
+var ctitle = "the godfather";
+var cyear = "1972";
+var cdirector = "francis ford coppola";
+var cgenre = ["crime", "drama"];
 var attempts = 10;
 var win = false;
 function submit(){
@@ -55,8 +55,11 @@ function submit(){
         
     }
     else if(win == false){
+        document.getElementById("result1").style.display = "none"
+        document.getElementById("result2").style.display = "none"
+        document.getElementById("result3").style.display = "none"
         document.getElementById("result4").style.display = "block"
-        document.getElementById("result4").innerHTML = "You lost"
+        document.getElementById("result4").innerHTML = "You lost, the movie was The Godfather"
         document.getElementById("result4").style.color = "rgb(226, 13, 13)";
         document.getElementById("attempts").innerHTML = "0";
     }
