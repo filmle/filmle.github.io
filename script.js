@@ -67,7 +67,7 @@ function random(min, max){
     return Math.floor(Math.random()*(max-min+1) + min);
 };
 function generatefilm(){
-    var numfilm = random(0, 20);
+    var numfilm = random(0, 49);
     ctitle = obj.films[numfilm].ctitle;
     ctitled = obj.films[numfilm].ctitled;
     cyear = obj.films[numfilm].cyear;
