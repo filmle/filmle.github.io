@@ -13,11 +13,10 @@ h1{
     font-size: 3em;
     color: white;
     white-space: nowrap;
-    
 }
 p{
     width: 55%;
-    font-size: 1.2em;
+    font-size: 1em;
     margin: 0 auto;
     color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -84,6 +83,13 @@ button:hover{
     flex-direction: column;
     gap: 0.2em;
 }
+#fields h1{
+    transition-duration: 0.5s;
+}
+#fields h1:hover{
+    color: rgb(255, 187, 0);
+    cursor: pointer;
+}
 #result h1{
     display: none;
     text-align: center;
@@ -144,6 +150,6 @@ button:hover{
         font-size: 12px;
     }
     p{
-        font-size: 1.4em;
+        font-size: 1.2em;
     }
 }

@@ -11,7 +11,7 @@
 <body>
     <header>
         <h1>Filmle</h1>
-        <p>How to play: fill in the fields below to try to guess the film. You only have to guess the film, but all the other fields will be useful clues. When you have filled them up, press the "Submit" button. Be careful, though, as you will be using up one of your 10 attempts. Enter the full name of the film and director. Lowercase doesn't matter, but punctuation does!</p>
+        <p>How to play: there is one movie you have to guess, this movie changes every time you reload the page. Fill up the fields below and, if you get any of them right, you will be told exactly what you got right (including the century or decade if you don't get the year right). Once you have filled them up, press the "Submit" button. Be careful, though, as you will be using up one of your 20 attempts. You can click on "Year", "Director" and "Genre" (the words above the fields) to reveal each answer, but you will use up 3 attempts. Enter the full name of the film and director. Lowercase doesn't matter, but punctuation does!</p>
     </header>
     <section>
         <div>
@@ -20,27 +20,27 @@
                 <input type="text" id="title" placeholder="Jurassic Park">
             </form>
         </div>
-        <div>
-            <h1>Year:</h2>
+        <div id="fields">
+            <h1 onclick="revealyear()">Year:</h2>
             <form onkeydown="return event.key != 'Enter';">
                 <input type="number" id="year" placeholder="1993">
             </form>
         </div>
-        <div>
-            <h1>Director:</h3>
+        <div id="fields">
+            <h1 onclick="revealdirector()">Director:</h3>
             <form onkeydown="return event.key != 'Enter';">
                 <input type="text" id="director" placeholder="Steven Spielberg">
             </form>
         </div>
-        <div>
-            <h1>Genre:</h1>
+        <div id="fields">
+            <h1 onclick="revealgenre()">Genre:</h1>
             <form onkeydown="return event.key != 'Enter';">
                 <input type="text" id="genre" placeholder="Action">
             </form>
         </div>
         <div>
             <h1>Attempts left:</h1>
-            <h2 id="attempts">10</h2>
+            <h2 id="attempts">20</h2>
         </div> 
     </section>
     <section id="secb">
