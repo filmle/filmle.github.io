@@ -20,35 +20,35 @@ let films = '{"films":['+
 '{"ctitle":"avengers: infinity war","ctitled":"Avengers: Infinity War","cyear":"2018","cdirector":"anthony russo","cdirectord":"Anthony Russo","cgenre":["action", "adventure", "sci-fi", "science fiction", "scifi", "sci fi"],"cgenred":"Action, adventure, sci-fi"},'+
 '{"ctitle":"the shining","ctitled":"The Shining","cyear":"1980","cdirector":"stanley kubrick","cdirectord":"Stanley Kubrick","cgenre":["horror", "drama"],"cgenred":"Horror, drama"},'+
 '{"ctitle":"joker","ctitled":"Joker","cyear":"2019","cdirector":"todd phillips","cdirectord":"Todd Phillips","cgenre":["crime", "drama", "thriller"],"cgenred":"Crime, drama, thriller"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"},'+
-'{"ctitle":"the godfather","ctitled":"The Godfather","cyear":"1972","cdirector":"francis ford coppola","cdirectord":"Francis Ford Coppola","cgenre":["crime", "drama"],"cgenred":"Crime, drama"}]}';
+'{"ctitle":"american history x","ctitled":"American History X","cyear":"1998","cdirector":"tony kane","cdirectord":"Tony Kane","cgenre":["drama"],"cgenred":"Drama"},'+
+'{"ctitle":"toy story","ctitled":"Toy Story","cyear":"1995","cdirector":"john lasseter","cdirectord":"John Lasseter","cgenre":["animation", "adventure", "comedy"],"cgenred":"Animation, adventure, comedy"},'+
+'{"ctitle":"requiem for a dream","ctitled":"Requiem for a dream","cyear":"2000","cdirector":"darren aronofsky","cdirectord":"Darren Aronofsky","cgenre":["drama"],"cgenred":"Drama"},'+
+'{"ctitle":"2001: a space odyssey","ctitled":"2001: A Spce Odyssey","cyear":"1968","cdirector":"stanley kubrick","cdirectord":"Stanley Kubrick","cgenre":["adventure", "sci-fi", "science fiction", "scifi", "sci fi"],"cgenred":"Adventure, sci-fi"},'+
+'{"ctitle":"citizen kane","ctitled":"Citizen Kane","cyear":"1941","cdirector":"orson welles","cdirectord":"Orson Welles","cgenre":["mystery", "drama"],"cgenred":"Mystery, drama"},'+
+'{"ctitle":"amélie","ctitled":"Amélie","cyear":"2001","cdirector":"jean-pierre jeunet","cdirectord":"Jean-Pierre Jeunet","cgenre":["comedy", "romance"],"cgenred":"Comedy, romance"},'+
+'{"ctitle":"1917","ctitled":"1917","cyear":"2019","cdirector":"sam mendes","cdirectord":"Sam Mendes","cgenre":["action", "drama", "war"],"cgenred":"Action, drama, war"},'+
+'{"ctitle":"the truman show","ctitled":"The Truman Show","cyear":"1998","cdirector":"peter weir","cdirectord":"Peter Weir","cgenre":["comedy", "drama"],"cgenred":"Comedy, drama"},'+
+'{"ctitle":"the sixth sense","ctitled":"The Sixth Sense","cyear":"1999","cdirector":"manoj nelliyattu shyamalan","cdirectord":"Manoj Nelliyattu Shyamalan","cgenre":["mystery", "drama", "thriller"],"cgenred":"Mystery, drama, thriller"},'+
+'{"ctitle":"finding nemo","ctitled":"Finding Nemo","cyear":"2003","cdirector":"andrew stanton","cdirectord":"Andrew Stanton","cgenre":["animation", "adventure", "comedy"],"cgenred":"Animation, adventure, comedy"},'+
+'{"ctitle":"how to train your dragon","ctitled":"How to Train Your Dragon","cyear":"2010","cdirector":"dean deblois","cdirectord":"Dean Deblois","cgenre":["animation", "action", "adventure"],"cgenred":"Animation, action, adventure"},'+
+'{"ctitle":"mad max","ctitled":"Mad Max","cyear":"1979","cdirector":"george miller","cdirectord":"George Miller","cgenre":["action", "adventure", "sci-fi", "science fiction", "scifi", "sci fi"],"cgenred":"Action, adventure, sci-fi"},'+
+'{"ctitle":"rocky","ctitled":"Rocky","cyear":"1976","cdirector":"john guilbert avildsen","cdirectord":"John Guilbert Avildsen","cgenre":["sport", "drama"],"cgenred":"Sport, drama"},'+
+'{"ctitle":"the terminator","ctitled":"The Terminator","cyear":"1984","cdirector":"james cameron","cdirectord":"James Cameron","cgenre":["action", "sci-fi", "science fiction", "scifi", "sci fi"],"cgenred":"Action, sci-fi"},'+
+'{"ctitle":"harry potter and the sorcerer'+"'"+'s stone"","ctitled":"Harry Potter and the Sorcerer'+"'"+'s stone","cyear":"2001","cdirector":"chris columbus","cdirectord":"Chris Columbus","cgenre":["adventure", "family", "fantasy"],"cgenred":"Adventure, family, fantasy"},'+
+'{"ctitle":"the hunger games","ctitled":"The Hunger Games","cyear":"2012","cdirector":"gary ross","cdirectord":"Gary Ross","cgenre":["action", "adventure", "sci-fi", "science fiction", "scifi", "sci fi"],"cgenred":"Action, adventure, sci-fi"},'+
+'{"ctitle":"spider-man","ctitled":"Spider-Man","cyear":"2002","cdirector":"sam raimi","cdirectord":"Sam Raimi","cgenre":["action", "adventure", "sci-fi", "science fiction", "scifi", "sci fi"],"cgenred":"Action, adventure, sci-fi"},'+
+'{"ctitle":"deadpool","ctitled":"Deadpool","cyear":"2016","cdirector":"tim miller","cdirectord":"Tim Miller","cgenre":["action", "adventure", "comedy"],"cgenred":"Action, adventure, comedy"},'+
+'{"ctitle":"it","ctitled":"It","cyear":"2017","cdirector":"andy muschietti","cdirectord":"Andy Muschietti","cgenre":["horror"],"cgenred":"Horror"},'+
+'{"ctitle":"shrek","ctitled":"Shrek","cyear":"2001","cdirector":"andrew adamson","cdirectord":"Andrew Adamson","cgenre":["animation", "adventure", "comedy"],"cgenred":"Animation, adventure, comedy"},'+
+'{"ctitle":"independence day","ctitled":"Independence Day","cyear":"1996","cdirector":"roland emmerich","cdirectord":"Roland Emmerich","cgenre":["action", "adventure", "sci-fi", "science fiction", "scifi", "sci fi"],"cgenred":"Action, adventure, sci-fi"},'+
+'{"ctitle":"avatar","ctitled":"Avatar","cyear":"2009","cdirector":"james cameron","cdirectord":"James Cameron","cgenre":["action", "adventure", "fantasy"],"cgenred":"Action, adventure, fantasy"},'+
+'{"ctitle":"titanic","ctitled":"Titanic","cyear":"1997","cdirector":"james cameron","cdirectord":"James Cameron","cgenre":["romance", "drama"],"cgenred":"Romance, drama"},'+
+'{"ctitle":"jaws","ctitled":"Jaws","cyear":"1975","cdirector":"steven spielberg","cdirectord":"Steven Spielberg","cgenre":["adventure", "thriller"],"cgenred":"Adventure, thriller"},'+
+'{"ctitle":"pirates of the caribbean: the curse of the black pearl","ctitled":"Pirates of the Caribbean: the curse of the black pearl","cyear":"2003","cdirector":"gore verbinski","cdirectord":"Gore Verbinski","cgenre":["action", "adventure", "fantasy"],"cgenred":"Action, adventure, fantasy"},'+
+'{"ctitle":"beauty and the beast","ctitled":"Beauty and the Beast","cyear":"1991","cdirector":"gary trousdale","cdirectord":"Gary Trousdale","cgenre":["animation", "family", "fantasy"],"cgenred":"Animation, family, fantasy"},'+
+'{"ctitle":"300","ctitled":"300","cyear":"2006","cdirector":"zack snyder","cdirectord":"Zack Snyder","cgenre":["action", "drama"],"cgenred":"Action, drama"},'+
+'{"ctitle":"kingsman: the secret service","ctitled":"Kingsman: The Secret Service","cyear":"2014","cdirector":"matthew vaughn","cdirectord":"Matthew Vaughn","cgenre":["action", "adventure", "fantasy"],"cgenred":"Action, adventure, fantasy"},'+
+'{"ctitle":"the fast and the furious","ctitled":"The Fast and the Furious","cyear":"2001","cdirector":"rob cohen","cdirectord":"Rob Cohen","cgenre":["crime", "action", "thriller"],"cgenred":"Action, crime, thriller"}]}';
 obj = JSON.parse(films);
 var ctitle = "";
 var ctitled = "";
